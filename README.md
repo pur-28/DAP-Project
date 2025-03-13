@@ -66,6 +66,10 @@ To run the project locally:
 - Provided insights for **future movie revenue predictions**.
 
 
+## 📂 Report File  
+- [Download the Full Report](./Report.pdf)
+
+  
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify the code for your own purposes.
 
